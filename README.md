@@ -14,5 +14,5 @@
 <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" ></div></br>
 
-<p> Iniciante da área de tecnologia, busco cada dia mais, novos aprendizados e oportunidades de praticar/aprender nesta área. </p>
+<p> Estou começando minha jornada na área de trabalho, por mais que limitado meu conhecimento, minha vontadede de aprender e colocar em pratica minhas habilidades são constantes. Estou sempre buscando aprimorar minhas habilidades e me manter atualizado com as últimas tendências tecnológicas. Sou apaixonado por resolver problemas e colaborar em equipe para alcançar resultados excepcionais. </p>
 
